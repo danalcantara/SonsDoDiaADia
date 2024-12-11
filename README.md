@@ -23,3 +23,6 @@ Cada uma dessas telas exibe um conjunto de sons apropriados para a sua missão, 
 
 SoundControlScreen:
 Esta tela é responsável por exibir as opções de som selecionadas, permitindo ao usuário escolher um som, ajustar seu volume e definir um temporizador para ele. Também mostra o som atualmente selecionado.
+
+
+Em desenvolvimento
